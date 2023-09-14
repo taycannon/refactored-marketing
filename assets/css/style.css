@@ -1,3 +1,4 @@
+/* All the styling of the webpage */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -102,6 +103,7 @@ p {
     color: #ffffff;
 }
 
+/* CSS code for bottom right */
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -163,6 +165,7 @@ p {
     color: #ffffff;
 }
 
+/* Images */
 .search-engine-optimization img {
     max-height: 200px;
 }
