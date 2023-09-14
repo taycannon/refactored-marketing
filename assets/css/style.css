@@ -13,7 +13,6 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
-    margin-right: auto;
 }
 
 .header h1 {
@@ -40,6 +39,7 @@ body {
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
+    justify-content: flex-end;
 }
 
 a {
@@ -142,6 +142,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    
 }
 
 .online-reputation-management {
